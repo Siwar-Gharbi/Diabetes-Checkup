@@ -1,7 +1,7 @@
 # Diabetes-Checkup
-##Objective
+## Objective
 In this project, we aim to predict whether the patient has diabetes or not based on various characteristics such as glucose level, insulin, age, BMI.. . During Model evaluation, we compare various machine learning algorithms on the basis of accuracy_score metric and find the best one. Next, we create a website application using Flask.
-###Techniques Used
+### Techniques Used
 - Data Cleaning
 - Data Visualization
 - Machine Learning Modeling
@@ -18,10 +18,5 @@ In this project, we aim to predict whether the patient has diabetes or not based
 - Matplotlib
 - Seaborn
 - Scikit Learn
-## Jupyter Notebook
-### Package Installation
-pip install numpy
-pip install pandas
-pip install seaborn
-pip install scikit-learn
-pip install matplotlib
+### Web app
+ 
