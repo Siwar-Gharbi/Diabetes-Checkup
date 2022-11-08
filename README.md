@@ -22,3 +22,5 @@ In this project, we aim to predict whether the patient has diabetes or not based
 - Scikit Learn
 ### Web app
  
+![page web](https://user-images.githubusercontent.com/109144779/200699454-c33d6802-e7a0-479d-b21c-48f310c43bae.png)
+![page web result](https://user-images.githubusercontent.com/109144779/200699468-210c8208-5678-49fd-9bde-fde59eb75017.png)
